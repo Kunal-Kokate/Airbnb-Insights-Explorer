@@ -24,7 +24,6 @@ The key findings from the analysis include:
 - The average price per bedroom increases with the number of bedrooms.
 - Certain zip codes have significantly higher average prices compared to others.
 - Revenue shows seasonal patterns, with notable peaks and troughs throughout the year.
-Conclusion
 
 ## **Dashboard**
 
